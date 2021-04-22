@@ -1,9 +1,9 @@
 baseURL = "http://JS-Choi513.github.io/"
-title = "Hugo Zzo Theme"
+title = "삽질기록"
 theme = "zzo"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguage = ""
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
 summaryLength = 70
