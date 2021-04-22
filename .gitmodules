@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/JS-Choi513/JS-Choi513.github.io.git
+	branch = master
