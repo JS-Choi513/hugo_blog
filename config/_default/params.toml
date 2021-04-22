@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "삽질기록"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "jinseo Choi"
+email = "tjwjs513@gmail.com"
+whoami = "student"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Changwon, Korea"
+organization = "noslab.github.io"
+link = "TBD"
 
 # sidebar
 enableBio = true
